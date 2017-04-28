@@ -1,0 +1,15 @@
+T T T x x x x x x T
+T T T x x x x x x T
+T T t x x x x x x T
+T t t x x x x x x T
+T t t x x x x x t T
+T t t x x x x x t T
+T T t x x x x x t T
+T T t t x t t t t T
+T T t t t t t t t T
+T T T T T T T T T T
+
+x=dirt
+t=tree
+T=dense woods
+start=4,4
